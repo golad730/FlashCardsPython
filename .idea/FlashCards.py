@@ -5,7 +5,7 @@ try:
 except ImportError:  # python 2
     import Tkinter as tkinter
 
-notes = ['A','B','D','E','F','G','MidC','HighC','HighD','HighE','HighF','HighG']
+notes = ['A','B','D','E','F','G','MidC','HighC','HighD','HighE','HighF','HighG'] 
 
 
 def load_images(card_images):
